@@ -29,7 +29,7 @@
 
 ## ⚽ Philosophy
 
-> "Me gusta crear proyectos tan buenos como los goles de Messi"
+> "Me gusta crear proyectos buenos y profesionales como los goles de Messi"
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LUCAS-ROMAN-VELASQUEZ/LUCASFOKING/main/messi/messi.gif" width="400"/>
@@ -54,22 +54,6 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000)
-
----
-
-## 🚀 Featured Projects
-
-🔐 **SecureAuth System**  
-Sistema de autenticación con JWT + protección contra ataques comunes  
-→ https://github.com/TUUSER/proyecto1  
-
-🕵️ **Digital Forensics Toolkit**  
-Herramientas para análisis de evidencia digital  
-→ https://github.com/TUUSER/proyecto2  
-
-💣 **Vulnerable App Lab**  
-Aplicación vulnerable para practicar pentesting  
-→ https://github.com/TUUSER/proyecto3  
 
 ---
 
@@ -106,7 +90,7 @@ Aplicación vulnerable para practicar pentesting
 
 ---
 
-## 🎯 Goals 2026
+## 🎯 "Goals 2026"
 
 - Contribuir a proyectos open source de seguridad  
 - Crear mi propio lab de pentesting  
