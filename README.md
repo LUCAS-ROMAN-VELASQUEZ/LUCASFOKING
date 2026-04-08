@@ -28,7 +28,7 @@
  
 ## Sobre mí / About Me
  
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300" />
+<img align="right" src="https://github.com/LUCAS-ROMAN-VELASQUEZ/LUCASFOKING/blob/main/anonymus/anonymous-mask.gif" width="300" />
  
 ```text
 Fullstack Developer con mentalidad de ciberseguridad.
