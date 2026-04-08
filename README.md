@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [TU NOMBRE]</h1>
+<h1 align="center">Hi 👋, I'm LUC4SFOK1NG</h1>
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="75%" />
@@ -32,7 +32,7 @@
 > "Me gusta crear proyectos tan buenos como los goles de Messi"
 
 <p align="center">
-  <img src="https://tenor.com/es/view/messi-gif-22433674.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/LUCAS-ROMAN-VELASQUEZ/LUCASFOKING/main/messi/messi.gif" width="400"/>
 </p>
 
 ---
@@ -124,7 +124,3 @@ Aplicación vulnerable para practicar pentesting
 <p align="center">
   ⚡ "Security is not a product, it's a process."
 </p>
-
-
-
-
