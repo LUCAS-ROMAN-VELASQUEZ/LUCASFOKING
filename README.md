@@ -48,7 +48,23 @@ thinking about security from the very first commit.
  
 <br clear="right"/>
  
+
+## Filosofía de trabajo / Work Philosophy
+
+<img align="right" src="https://github.com/LUCAS-ROMAN-VELASQUEZ/LUCASFOKING/raw/main/messi/messi.gif" width="300" />
+
+
+Construyo proyectos con precisión, constancia y calidad.
+Cada sistema que desarrollo busca ser limpio, eficiente y profesional,
+como la forma en la que Messi define cada jugada: simple, pero perfecta.
+
+I build projects with precision, consistency and quality.
+Every system I develop aims to be clean, efficient and professional,
+like the way Messi defines every play: simple, but perfect.
+
+ 
 ---
+
  
 ## Stack tecnológico / Tech Stack
  
