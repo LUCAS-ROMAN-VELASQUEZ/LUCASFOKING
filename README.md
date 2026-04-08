@@ -51,7 +51,7 @@ thinking about security from the very first commit.
 
 ## Filosofía de trabajo / Work Philosophy
 
-<img align="right" src="https://github.com/LUCAS-ROMAN-VELASQUEZ/LUCASFOKING/raw/main/messi/messi.gif" width="250" />
+<img align="right" src="https://github.com/LUCAS-ROMAN-VELASQUEZ/LUCASFOKING/raw/main/messi/messi.gif" width="200" />
 
 
 Construyo proyectos con precisión, constancia y calidad.
