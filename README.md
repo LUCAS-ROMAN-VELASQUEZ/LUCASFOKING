@@ -151,7 +151,7 @@ Analizo como forense  /  Analyze like a forensic expert
  
 ---
  
-## Objetivos 2026 / Goals 2026
+## Objetivos 2026 / "Goals 2026"
  
 - Contribuir a proyectos open source de seguridad
 - Montar un laboratorio de pentesting propio
